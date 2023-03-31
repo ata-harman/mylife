@@ -11,3 +11,6 @@ Bu dosya HTML ve CSS ile oluşturuldu.
 ![](github-ss/9.png)
 ![](github-ss/10.png)
 ![](github-ss/11.png)
+![](github-ss/12.png)
+![](github-ss/13.png)
+![](github-ss/14.png)
